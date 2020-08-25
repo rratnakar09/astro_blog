@@ -1,0 +1,4 @@
+Clone it inside directory.
+Use source env/bin/activate
+cd astro_blog
+python manage.py runserver
